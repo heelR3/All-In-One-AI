@@ -26,5 +26,26 @@ An AI-powered full stack app that combines productivity and creativity tools —
 
 ---
 
-# **Landing Page**
-![Landing Page](./public/images/AiMockInterview_1.png)
+### 🔐 Landing Page  
+![Landing Page](./images/landingPage1.png)
+
+### 🧾 Dashboard  
+![Dashboard](./images/dashboard.png)
+
+### 📝 Write Article  
+![Article](./images/article.png)
+
+### 🧠 Blog Titles  
+![Blog](./images/blog.png)
+
+### 🖼️ Generate Image  
+![Image](./images/image.png)
+
+### 🪄 Remove Background  
+![Remove Background](./images/background.png)
+
+### 🎯 Remove Object  
+![Remove Object](./images/object.png)
+
+### 📄 Resume Review  
+![Resume](./images/resume.png)
