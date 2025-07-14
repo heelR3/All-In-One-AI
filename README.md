@@ -29,27 +29,57 @@ An AI-powered full stack app that combines productivity and creativity tools —
 ### 🔐 Landing Page  
 ![Landing Page](./images/landingPage1.png)
 
+---
+
 ![Landing Page](./images/landingPage2.png)
 
+---
+
 ![Landing Page](./images/landingPage3.png)
+
+---
 
 ### 🧾 Dashboard  
 ![Dashboard](./images/dashboard.png)
 
+---
+
 ### 📝 Write Article  
 ![Article](./images/article.png)
+
+---
 
 ### 🧠 Blog Titles  
 ![Blog](./images/blog.png)
 
+---
+
 ### 🖼️ Generate Image  
 ![Image](./images/image.png)
 
+---
+
 ### 🪄 Remove Background  
-![Remove Background](./images/background.png)
+![Remove Background](./images/bg.png)
+
+---
 
 ### 🎯 Remove Object  
 ![Remove Object](./images/object.png)
 
+---
+
 ### 📄 Resume Review  
 ![Resume](./images/resume.png)
+
+---
+
+## 🙌 Acknowledgements
+
+- Clerk for authentication
+- NeonDB for free PostgreSQL hosting
+- Google Gemini & ClipDrop APIs
+- Cloudinary for media storage
+- Tailwind UI inspiration
+
+---
