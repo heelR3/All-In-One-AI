@@ -29,6 +29,10 @@ An AI-powered full stack app that combines productivity and creativity tools —
 ### 🔐 Landing Page  
 ![Landing Page](./images/landingPage1.png)
 
+![Landing Page](./images/landingPage2.png)
+
+![Landing Page](./images/landingPage3.png)
+
 ### 🧾 Dashboard  
 ![Dashboard](./images/dashboard.png)
 
