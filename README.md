@@ -1,4 +1,4 @@
-# **AI SaaS App**
+# **AI SaaS App: All in One AI**
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-blue?style=for-the-badge&labelColor=333)](https://all-in-one-ai-xi.vercel.app/)
 
 An AI-powered full stack app that combines productivity and creativity tools — generate articles, images, remove objects/backgrounds, get resume feedback, and share your creations with the world.
